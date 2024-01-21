@@ -1,9 +1,6 @@
 # Online Reader for "The Great Gatsby"
 
-![Title card](/assets/title%20card.png)
 ![Full Reader](/assets/full%20page.png)
-![Side Nav Bar](/assets/nav%20bar.png)
-![Dictionary pop up](/assets/dictionary%20pop%20up.png)
 
 ## Description
 
@@ -12,7 +9,9 @@ This project is a simple online reader for the novel "The Great Gatsby". It's bu
 ## Features
 
 - **CSS Animations**: The application includes CSS animations that highlight words in the text. When these words are hovered over, their definitions are displayed, enhancing the reading experience by providing immediate context.
+![Dictionary pop up](/assets/dictionary%20pop%20up.png)
 - **Navigation Bar**: A navigation bar is included on the left side of the screen. This bar is hidden by default and pops out when hovered over, providing a clean, uncluttered reading interface while still allowing easy access to navigation controls.
+![Side Nav Bar](/assets/nav%20bar.png)
 - **Author Name Animation**: The author’s name bounces when the page is reloaded, adding a dynamic element to the reader and drawing attention to the author of this classic novel.
 
 ## Usage
